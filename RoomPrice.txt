@@ -1,0 +1,2 @@
+Fivestar	Fourstar	Threestar	Twostar
+500		400		300		200
